@@ -1,0 +1,5 @@
+edad = int(input("ingreser su edad: "))
+if edad >= 18: #if es un Si, aca seria Si el usuario es mayor >= 18 ejucuta el print("eres mayor de edad")
+    print("eres mayor de edad")
+else: #else es un No, osea si el usuario no es mayor de edad, entonces ejecuta el print("aun eres menor de edad")
+    print("aun eres menor de edad")
